@@ -1,0 +1,11 @@
+@use "_header";
+@use "_histories";
+@use "_posts";
+@use "_footer";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  text-decoration: none;
+}
